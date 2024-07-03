@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "693810282328",
+    "firebase_url": "https://shoppi-88888-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shoppi-88888",
+    "storage_bucket": "shoppi-88888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693810282328:android:b8b9e27885b80f7699ef2d",
+        "android_client_info": {
+          "package_name": "com.example.myshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8iP4eCOYH2FlzsZ3ZLOtpP6SDB8vjixI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
